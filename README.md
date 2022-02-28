@@ -1,2 +1,2 @@
-# PythonJSOB
+# PythonJSON
  JSON Connecting to MongoDB
